@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mudae-helper-website/static/css/main.dcf20f0a.css",
+    "main.js": "/mudae-helper-website/static/js/main.9b5b22fb.js",
+    "index.html": "/mudae-helper-website/index.html",
+    "main.dcf20f0a.css.map": "/mudae-helper-website/static/css/main.dcf20f0a.css.map",
+    "main.9b5b22fb.js.map": "/mudae-helper-website/static/js/main.9b5b22fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf20f0a.css",
+    "static/js/main.9b5b22fb.js"
+  ]
+}
